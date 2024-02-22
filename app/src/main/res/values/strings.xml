@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Task_4_CallBacks_&amp;_Dialogs</string>
+    <string name="phone_call">Phone call</string>
+    <string name="message">Send message</string>
+    <string name="google_map">Google map</string>
+    <string name="storage">Storage</string>
+    <string name="make_a_call">Make a call</string>
+    <string name="send_message">Send a message</string>
+    <string name="open_maps">Open Maps</string>
+    <string name="sure_to_call">Are you sure you want to call \'923035684789\'?</string>
+    <string name="sure_to_message">Are you sure you want to message \'923035684789\'?</string>
+    <string name="sure_to_open_maps">Are you sure you want to open google maps?</string>
+    <string name="has_storage_access">This app has storage permission</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="okay">Okay</string>
+    <string name="go_to_settings">Go to settings</string>
+    <string name="phone_permission_required">Phone permission required</string>
+    <string name="message_permission_required">SMS permission required</string>
+    <string name="location_permission_required">Location permission required</string>
+    <string name="storage_permission_required">Storage permission required</string>
+    <string name="require_phone_permission">This application needs phone permission to make calls</string>
+    <string name="require_message_permission">This application needs SMS permission to send messages</string>
+    <string name="require_location_permission">This application needs location permission to access maps</string>
+    <string name="require_storage_permission">This application needs storage permission to access files</string>
+
+
+
+
+</resources>
